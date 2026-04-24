@@ -1,0 +1,8 @@
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\bin\Debug\AutoMozg.exe.config
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\bin\Debug\AutoMozg.exe
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\bin\Debug\AutoMozg.pdb
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.csproj.AssemblyReference.cache
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.csproj.CoreCompileInputs.cache
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.exe
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.pdb
+C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.exe.config
