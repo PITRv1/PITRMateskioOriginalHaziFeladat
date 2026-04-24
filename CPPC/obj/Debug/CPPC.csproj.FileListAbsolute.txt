@@ -1,8 +1,0 @@
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\bin\Debug\CPPC.exe.config
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\bin\Debug\CPPC.exe
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\bin\Debug\CPPC.pdb
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\obj\Debug\CPPC.csproj.AssemblyReference.cache
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\obj\Debug\CPPC.csproj.CoreCompileInputs.cache
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\obj\Debug\CPPC.exe
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\obj\Debug\CPPC.pdb
-C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\CPPC\obj\Debug\CPPC.exe.config

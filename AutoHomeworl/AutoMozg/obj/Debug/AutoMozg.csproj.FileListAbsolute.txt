@@ -6,3 +6,11 @@ C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.csproj.C
 C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.exe
 C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.pdb
 C:\Users\toth.peter.sandor\Desktop\AutoMozg\AutoMozg\obj\Debug\AutoMozg.exe.config
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\bin\Debug\AutoMozg.exe.config
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\bin\Debug\AutoMozg.exe
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\bin\Debug\AutoMozg.pdb
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\obj\Debug\AutoMozg.csproj.AssemblyReference.cache
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\obj\Debug\AutoMozg.exe.config
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\obj\Debug\AutoMozg.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\obj\Debug\AutoMozg.exe
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\AutoHomeworl\AutoMozg\obj\Debug\AutoMozg.pdb
