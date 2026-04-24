@@ -1,0 +1,7 @@
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\bin\Debug\DiakBelepteto.exe.config
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\bin\Debug\DiakBelepteto.exe
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\bin\Debug\DiakBelepteto.pdb
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\obj\Debug\DiakBelepteto.csproj.AssemblyReference.cache
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\obj\Debug\DiakBelepteto.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\obj\Debug\DiakBelepteto.exe
+C:\Users\peter\Documents\Github\PITRMateskioOriginalHaziFeladat\DiakBelepteto\DiakBelepteto\obj\Debug\DiakBelepteto.pdb
